@@ -2,3 +2,6 @@ Git test initial master brance
 
 additional changes
 
+stashed changes
+
+V2.0 changes
